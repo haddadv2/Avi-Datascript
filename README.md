@@ -5,9 +5,9 @@
 - DataScript – Lua-based tool used on VMWare NSX advanced loadbalancer (Avi) to manipulates data plane traffic.
 
 - For more info :
- - Events - https://avinetworks.com/docs/latest/datascript-events/
- - Operators - https://avinetworks.com/docs/latest/datascript-operators/
- - Functions - https://avinetworks.com/docs/latest/datascript-functions/
+  - Events - https://avinetworks.com/docs/latest/datascript-events/
+  - Operators - https://avinetworks.com/docs/latest/datascript-operators/
+  - Functions - https://avinetworks.com/docs/latest/datascript-functions/
 
 
 
