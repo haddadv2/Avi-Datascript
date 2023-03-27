@@ -1,3 +1,3 @@
 # Avi-Datascript
 
-- Datascript to enable client SSL authentication based on HTTP REQUEST path. [Enable PKI](enable_PKI_profile.lua)
+- [Enable PKI DS](enable_PKI_profile.lua): Datascript to enable client SSL authentication based on HTTP REQUEST PATH
